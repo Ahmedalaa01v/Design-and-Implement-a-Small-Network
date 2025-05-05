@@ -104,12 +104,12 @@ Testing was performed using:
 
 ## 🖼️ Project Files & Diagrams
 
-- `01_Topology.pkt`
-- `02_InterVLAN.pkt`
-- `03_DHCP.pkt`
-- `04_Routing.pkt`
-- `05_VPN.pkt`
-- `06_NAT.pkt`
+- [`1-Topology.pkt`](./FinalProject_Topology.pkt)
+- [`2-InterVLAN.pkt`](./FinalProject_Vlans.pkt)
+- [`3-DHCP.pkt`](./FinalProject_DHCP.pkt)
+- [`4-Routing.pkt`](./FinalProject_OSPF.pkt)
+- [`5-VPN.pkt`](./FinalProject_VPN.pkt)
+- [`6-NAT.pkt`](./FinalProject_NAT.pkt)
 
 You may also include screenshots of:
 - HQ setup
