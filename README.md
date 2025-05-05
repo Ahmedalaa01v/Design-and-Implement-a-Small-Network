@@ -111,11 +111,19 @@ Testing was performed using:
 - [`5-VPN.pkt`](./FinalProject_VPN.pkt)
 - [`6-NAT.pkt`](./FinalProject_NAT.pkt)
 
-You may also include screenshots of:
-- HQ setup
-- Branch 1
-- Branch 2
-- ISP & Server configuration
+### 🔧 Topology Screenshots
+
+#### 🏢 HQ Setup
+![HQ Topology](images/hq_topology.png)
+
+#### 🏬 Branch 1
+![Branch 1 Topology](images/branch1_topology.png)
+
+#### 🏬 Branch 2
+![Branch 2 Topology](images/branch2_topology.png)
+
+#### 🌐 ISP & Server Configuration
+![ISP Setup](images/isp_setup.png)
 
 ---
 
