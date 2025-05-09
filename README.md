@@ -1,4 +1,4 @@
-# 🏢 Company Network Infrastructure with VPN, NAT & OSPF Multi-Area
+# 🏢 Company Network Infrastructure with VPN, NAT & OSPF Multi-Area - Documentation
 
 ## 📘 Project Overview
 
